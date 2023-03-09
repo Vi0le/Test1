@@ -1,0 +1,30 @@
+#container {
+    display: flex;
+    justify-content: space-around;
+    border: 5px solid black;
+    width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    background: rgb(44, 56, 165);
+    text-align: center;
+}
+
+body{
+    background: rgb(146, 146, 210);
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: left;
+    margin: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+a {
+    color: aquamarine;
+}
+
+#img{
+    width: 150px;
+    border-radius: 25px;
+}
